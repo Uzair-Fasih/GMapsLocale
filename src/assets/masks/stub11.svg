@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299" height="311" viewBox="0 0 299 311">
+  <defs>
+    <filter id="stub11" x="0" y="0" width="299" height="311" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#stub11)">
+    <path id="stub11-2" data-name="stub11" d="M264,310H26A25.986,25.986,0,0,1,.158,286.889,6.007,6.007,0,0,0,5,281a5.979,5.979,0,0,0-5-5.918V262.918A5.978,5.978,0,0,0,5,257a5.979,5.979,0,0,0-5-5.917V238.918A5.978,5.978,0,0,0,5,233a5.977,5.977,0,0,0-5-5.917V214.917A5.978,5.978,0,0,0,5,209a5.979,5.979,0,0,0-5-5.917V195H.5a31.5,31.5,0,1,0,0-63H0v-8.087A5.978,5.978,0,0,0,5,118a5.979,5.979,0,0,0-5-5.917V99.917A5.978,5.978,0,0,0,5,94a5.979,5.979,0,0,0-5-5.918V75.917A5.978,5.978,0,0,0,5,70a5.977,5.977,0,0,0-5-5.917V51.917A5.978,5.978,0,0,0,5,46,6.008,6.008,0,0,0,.157,40.111,25.981,25.981,0,0,1,26,17H264a17.02,17.02,0,0,0,17,17V293A17.02,17.02,0,0,0,264,310Z" transform="translate(9 -11)" fill="#fff"/>
+  </g>
+</svg>
