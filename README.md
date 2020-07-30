@@ -4,6 +4,8 @@
 
 GMapsLocale, _no matter how poorly named it may be,_ a tool for visualizing your collected Google Location History data with heatmaps. Don't worry—all processing and visualization happens directly on your computer, so rest assured that nobody is able to access your Location History but you... and Google, of course.
 
+[View live demo here](https://gmaps-locale.vercel.app/)
+
 ## Welcome Page
 
 <img src="./static/Screenshot_2020-07-31 Gmapslocale - By Uzair Fasih.png">
